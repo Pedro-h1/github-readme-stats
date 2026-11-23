@@ -1,8 +1,8 @@
 <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:64748B,100:334155&text=📊+GITHUB+README+STATS&fontColor=ffffff&fontSize=38&fontAlignY=38&desc=🧩+Recursos+para+estatísticas+do+GitHub&descAlignY=58&descSize=16&animation=fadeIn" width="100%" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0EA5E9,100:0369A1&text=📊+GITHUB+README+STATS&fontColor=ffffff&fontSize=38&fontAlignY=38&desc=🧩+Recursos+para+estatísticas+do+GitHub&descAlignY=58&descSize=16&animation=fadeIn" width="100%" />
 </div>
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=8000&pause=1500&startDelay=0&color=64748B&center=true&vCenter=true&width=750&lines=📘+Sobre+o+repositório" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=8000&pause=1500&startDelay=0&color=0EA5E9&center=true&vCenter=true&width=750&lines=📘+Sobre+o+repositório" />
 </div>
 <div align="center">
     <p>📊 Repositório relacionado à utilização e experimentação de <strong>estatísticas do GitHub</strong> em páginas de perfil e projetos.</p>
@@ -11,11 +11,11 @@
 ---
 
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=8000&pause=1500&startDelay=0&color=64748B&center=true&vCenter=true&width=750&lines=🛠️+Aplicação" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=8000&pause=1500&startDelay=0&color=0EA5E9&center=true&vCenter=true&width=750&lines=🛠️+Aplicação" />
 </div>
 <div align="center">
     <p>📈 Recursos visuais para apresentar informações de atividade, linguagens e contribuições do GitHub.</p>
 </div>
 <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:334155,100:64748B&animation=fadeIn" width="100%" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:0369A1,100:0EA5E9&animation=fadeIn" width="100%" />
 </div>
